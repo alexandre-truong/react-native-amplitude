@@ -1,0 +1,104 @@
+{
+  "_args": [],
+  "_from": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+  "_id": "react-native-audiowaveform@2.0.3",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "",
+  "_location": "/react-native-audiowaveform",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-audiowaveform-1.0.471.tgz_1498798533645_0.30980362044647336"
+  },
+  "_npmUser": {
+    "name": "otomogroove",
+    "email": "juan@otomogroove.com"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+    "rawSpec": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+    "saveSpec": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+    "fetchSpec": "https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git#fcae4a9e3a3cd664ac2713d1c27875baa485c178",
+  "_shasum": "edffd87c688ba4e92955eadd527538f6ac7b282f",
+  "_shrinkwrap": null,
+  "_spec": "git+https://git@github.com/alexandre-truong/react-native-audiowaveform.git",
+  "_where": "/Users/alexandretruong/testWaveform",
+  "author": {
+    "name": "Otomogroove 2017"
+  },
+  "bugs": {
+    "url": "https://github.com/juananime/react-native-audiowaveform/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Audio Waveform visualization and sound renderization for React Native",
+  "devDependencies": {
+    "babel-jest": "22.0.4",
+    "babel-plugin-styled-components": "1.5.0",
+    "babel-preset-react-native": "4.0.0",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "chalk": "2.3.2",
+    "deep-freeze": "0.0.1",
+    "dot-object": "1.7.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.0.0",
+    "enzyme-to-json": "^3.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-bambi": "1.3.0",
+    "fbemitter": "^2.1.1",
+    "flow-bin": "0.67.1",
+    "jest": "^23.5.0",
+    "jest-react-native": "^18.0.0",
+    "prettier": "^1.13.5",
+    "prop-types": "^15.6.0",
+    "react-dom": "^16.0.0-alpha.12",
+    "react-native-debugger-utils": "1.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "edffd87c688ba4e92955eadd527538f6ac7b282f",
+    "tarball": "https://registry.npmjs.org/react-native-audiowaveform/-/react-native-audiowaveform-1.0.471.tgz"
+  },
+  "gitHead": "254af600c21b2157f208822f2631ea18d171a5e3",
+  "homepage": "https://github.com/juananime/react-native-audiowaveform#readme",
+  "keywords": [
+    "react-native",
+    "audio",
+    "waveform",
+    "sound"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "otomogroove",
+      "email": "info@otomogroove.com"
+    }
+  ],
+  "name": "react-native-audiowaveform",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": "^0.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juananime/react-native-audiowaveform.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
